@@ -15,7 +15,6 @@
 <br clear="both">
 
 <div align="center">
-  <h3>🚀 Programming Languages</h3>
   <table>
     <tr>
       <td align="center">
@@ -31,8 +30,7 @@
       </td>
     </tr>
   </table>
-
-  <h3>🎵 Now Playing</h3>
+  
   <table>
     <tr>
       <td align="center">
@@ -43,7 +41,6 @@
     </tr>
   </table>
 
-  <h3>🛠️ Software & Tools</h3>
   <table>
     <tr>
       <td align="center">
