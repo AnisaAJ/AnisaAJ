@@ -57,9 +57,9 @@
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" height="40" alt="after effects logo" />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1024px-Adobe_Photoshop_CS6_icon.svg.png?20121205002352" height="40" alt="photoshop logo" />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe-Animate-2020-logo.png/640px-Adobe-Animate-2020-logo.png" height="40" alt="adobe animate" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
         <img width="12" />
