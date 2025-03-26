@@ -49,15 +49,7 @@
       </td>
     </tr>
   </table>
-</div>
-
-###
-
-<br>
-
-<!-- GitHub Stats Below -->
-<div align="">
-  <table>
+  <table align="right">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" width="300" height="150" alt="stats graph" />
@@ -70,4 +62,10 @@
     </tr>
   </table>
 </div>
+
+###
+
+<br>
+
+<!-- GitHub Stats Below -->
 
