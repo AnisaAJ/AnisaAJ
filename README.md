@@ -56,7 +56,7 @@
 <br>
 
 <!-- GitHub Stats Below -->
-<div align="center">
+<div align="right">
   <table>
     <tr>
       <td>
