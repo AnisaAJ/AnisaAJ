@@ -12,18 +12,15 @@
 
 <br clear="both">
 
-<!-- Two-column layout using tables -->
 <table>
   <tr>
-    <!-- Left Column: GitHub Stats -->
+  
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
       <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
     </td>
     
-    <!-- Right Column: Languages, Music Player, Software Tools -->
     <td width="50%">
-      <!-- Languages & Tools -->
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
         <img width="12" />
@@ -36,14 +33,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
       </div>
       
-      <!-- Music Player -->
+  
       <div align="center">
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=redboom143&cover_image=true&theme=natemoo-re&show_offline=true&background_color=6600ff&interchange=true&bar_color=c800ff&bar_color_cover=false" height="120" />
         </a>
       </div>
       
-      <!-- Software Tools -->
       <div align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" height="40" alt="after effects logo" />
         <img width="12" />
