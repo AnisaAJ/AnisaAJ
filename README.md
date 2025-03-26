@@ -12,7 +12,6 @@
 
 <br clear="both">
 
-<!-- Programming Languages & Tools First -->
 <div align="left">
   <table>
     <tr>
@@ -49,7 +48,6 @@
       </td>
     </tr>
   </table>
-<div align="right">
   <table>
     <tr>
       <td>
@@ -62,6 +60,5 @@
       </td>
     </tr>
   </table>
-</div>
 </div>
 
