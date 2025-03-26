@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/a6/dd/50/a6dd501a5fee04cd8e23e91e71f641f2.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/564x/a6/dd/50/a6dd501a5fee04cd8e23e91e71f641f2.jpg" />
 
 ###
 
@@ -12,23 +12,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
-<br>
-
+<!-- Programming Languages & Tools First -->
 <div align="center">
   <table>
     <tr>
@@ -63,5 +47,23 @@
         <img width="12" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="github logo" />
       </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+      </td>
+    </tr>
   </table>
 </div>
