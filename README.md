@@ -14,23 +14,27 @@
 
 <br clear="both">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <div align="left">
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -38,14 +42,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      </div>
-    </td>
-    <td>
-      <div align="right">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=redboom143&cover_image=true&theme=natemoo-re&show_offline=true&background_color=6600ff&interchange=true&bar_color=c800ff&bar_color_cover=false" height="100" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=redboom143&cover_image=true&theme=natemoo-re&show_offline=true&background_color=6600ff&interchange=true&bar_color=c800ff&bar_color_cover=false" height="120" />
         </a>
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
