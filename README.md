@@ -37,20 +37,17 @@
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=redboom143&cover_image=true&theme=natemoo-re&show_offline=true&background_color=6600ff&interchange=true&bar_color=c800ff&bar_color_cover=false" height="120" />
         </a>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Software Tools -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" height="40" alt="after effects logo" />
-      <img width="12" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1024px-Adobe_Photoshop_CS6_icon.svg.png?20121205002352" height="40" alt="photoshop logo" />
-      <img width="12" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe-Animate-2020-logo.png/640px-Adobe-Animate-2020-logo.png" height="40" alt="adobe animate logo" />
-      <img width="12" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="visual studio code logo" />
-      <img width="12" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="github logo" />
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" height="40" alt="after effects logo" />
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1024px-Adobe_Photoshop_CS6_icon.svg.png?20121205002352" height="40" alt="photoshop logo" />
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe-Animate-2020-logo.png/640px-Adobe-Animate-2020-logo.png" height="40" alt="adobe animate logo" />
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="visual studio code logo" />
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="github logo" />
+      </div>
     </td>
   </tr>
 </table>
