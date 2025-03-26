@@ -13,7 +13,7 @@
 <br clear="both">
 
 <!-- Programming Languages & Tools First -->
-<div align="left">
+<div align="center">
   <table>
     <tr>
       <td align="center">
