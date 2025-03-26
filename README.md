@@ -12,9 +12,8 @@
 
 <br clear="both">
 
-| **Programming Languages & Spotify** | **GitHub Stats** |
-|-------------------------------------|------------------|
-| <table>                             | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false) |
-| <tr>                                | ![Streak Stats](https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5) |
-| Programming language icons & Spotify Embed code!. |
-GitHub-centered alternative visual header 
+| Programming Languages & Spotify | GitHub Stats |
+|---------------------------------|--------------|
+| <table>                         | ![GitHub Stats](https://url-for-stats) |
+| Embed Spotify Player            | ![Streak Stats](https://url-for-streak-stats)  |
+|                                 | Another thing!                                 |
