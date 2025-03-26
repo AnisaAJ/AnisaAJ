@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Greetings, everyone! I am a dedicated Computer Science student. My passion lies in exploring the realm of technology, and I am committed to increasing my skills to contribute my own creative ideas to the field.<br><br>🚀 Actively seeking opportunities for collaboration and learning.<br>🌱 Currently focusing on learning JavaScript.<br>💡 Committed to writing clean and efficient code.<br><br>I have already self published my own website and im always eager to update it. www.anisaj.tech</p>
+<p align="left">Greetings, everyone! I am a dedicated Computer Science student. My passion lies in exploring the realm of technology, and I am committed to increasing my skills to contribute my own creative ideas to the field.<br><br>🚀 Actively seeking opportunities for collaboration and learning.<br>🌱 Currently focusing on learning JavaScript, Python, and SQL.<br>💡 Committed to writing clean and efficient code.<br>
 
 ###
 
