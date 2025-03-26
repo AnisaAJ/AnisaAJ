@@ -55,7 +55,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="right"> 
         <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" width="300" height="150" alt="streak graph" />
       </td>
     </tr>
