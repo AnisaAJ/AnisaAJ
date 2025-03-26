@@ -16,14 +16,14 @@
 <table align="center">
   <tr>
     <!-- Left Column: GitHub Stats -->
-    <td width="50%" valign="top" align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
       <br><br>
       <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
     </td>
 
     <!-- Right Column: Programming Languages, Music Player, and Software Tools -->
-    <td width="50%" valign="top" align="center">
+    <td>
       <!-- Programming Languages -->
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
