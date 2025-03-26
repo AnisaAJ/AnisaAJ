@@ -60,10 +60,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-white&locale=en&hide_border=false" height="150" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AnisaAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=AnisaAJ&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5" height="150" alt="streak graph" />
       </td>
     </tr>
   </table>
