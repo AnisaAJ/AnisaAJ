@@ -37,15 +37,15 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adobe-After_Effects-icon.png" height="40" alt="after effects logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1024px-Adobe_Photoshop_CS6_icon.svg.png?20121205002352" height="40" alt="photoshop logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe-Animate-2020-logo.png/640px-Adobe-Animate-2020-logo.png" height="40" alt="adobe animate logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="visual studio code logo" />
-        <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="github logo" />
+        <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+        <img width="8" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+        <img width="8" />
+        <img src="https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=adobeanimate&logoColor=white" />
+        <img width="8" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <img width="8" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </td>
     </tr>
     <tr>
